@@ -10,5 +10,5 @@ phpStorm-webStorm-skills
 
 ## 目录
 
-001. [插入当前时间的方法 (自定义模板)](docs/001.air-template.md)
-
+001. [插入当前时间的方法 (自定义模板)](docs/001.live-template.md)
+002. [不能错过的常用快捷键](docs/002.keyboard-shortcuts-you-cannot-miss.md)
