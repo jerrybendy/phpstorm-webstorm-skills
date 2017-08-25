@@ -14,4 +14,4 @@ phpStorm-webStorm-skills
 002. [不能错过的常用快捷键](docs/002.keyboard-shortcuts-you-cannot-miss.md)
 003. [为 IDE 设置背景图片](docs/003.set-background-image.md)
 004. [PHP开发环境下本人的phpStrom配置, 适合Web前后端开发](recommend-configure/Import说明.md)
-005. [一键折叠代码函数和打开代码函数](docs/0004.region(代码折叠).md)
+005. [一键折叠代码函数和打开代码函数](docs/004.region(代码折叠).md)
