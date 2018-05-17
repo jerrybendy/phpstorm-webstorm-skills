@@ -7,6 +7,7 @@ phpStorm-webStorm-skills
 
 ## 目录
 
+000. [phpstorm注册码](docs/000.register.md)
 001. [插入当前时间的方法 (自定义模板)](docs/001.live-template.md)
 002. [不能错过的常用快捷键](docs/002.keyboard-shortcuts-you-cannot-miss.md)
 003. [为 IDE 设置背景图片](docs/003.set-background-image.md)
