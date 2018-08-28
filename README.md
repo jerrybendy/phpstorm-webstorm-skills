@@ -14,4 +14,4 @@ phpStorm-webStorm-skills
 004. [PHP开发环境下本人的phpStrom配置, 适合Web前后端开发](recommend-configure/Import说明.md)
 005. [一键折叠代码函数和打开代码函数](docs/004.region(代码折叠).md)
 006. [快捷键Ctrl + Alt + Left 或Right不起作用](docs/005.phpstorm快捷键.md )
-006. [PHPstorm如何安装vue.js插件](https://www.cnblogs.com/Worssmagee1002/p/6728481.html)
+007. [PHPstorm如何安装vue.js插件](https://www.cnblogs.com/Worssmagee1002/p/6728481.html)
